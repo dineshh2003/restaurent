@@ -42,7 +42,7 @@ const Slider = () => {
             <button className="bg-red-500 text-white py-4 px-8">Order now</button>
         </div>
         {/* image container */}
-        <div className='w-full h-1/2 relative lg:w-1/2 h-full'>
+        <div className='w-full h-1/2 relative lg:w-1/2 lg:h-full'>
         <Image src={data[currentSlide].image} alt="" fill className='object-cover'/>
         </div>
     </div>
