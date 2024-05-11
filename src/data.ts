@@ -9,7 +9,7 @@ type Product = {
 
 type Products = Product[];
 
-export const featuredProduct : Products = [
+export const featuredProducts : Products = [
     {
         id: 1,
         title: "pizza ",
@@ -32,7 +32,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 2,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
@@ -53,7 +53,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 3,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
@@ -74,7 +74,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 4,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
@@ -95,7 +95,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 5,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
@@ -116,7 +116,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 6,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
@@ -137,7 +137,7 @@ export const featuredProduct : Products = [
         ]
     },
     {
-        id: 1,
+        id: 7,
         title: "pizza ",
         desc: "Ignite your taste buds with a hehehehe",
         img: "/temporary/p1.png",
